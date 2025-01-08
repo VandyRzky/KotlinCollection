@@ -1,4 +1,4 @@
-package Main.Operators
+package Main.Operation
 
 // tidak akan mengubah collection aslinya tetapi membuat collection baru
 

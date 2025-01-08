@@ -1,4 +1,4 @@
-package Main.Operators
+package Main.Operation
 
 // untuk mengambil sebbagian elemen yang ada pada collection berdasarkan range
 // parameter pada slice merupakan index
